@@ -1,0 +1,31 @@
+.general{
+	text-align: center;
+	padding: 200px;
+}
+/*code ,.access{
+	text-decoration: underline;
+}*/
+.code ,.access{
+	border-bottom: 2px solid black;
+}
+.code ,.access, .chevron{
+	padding: 1px 5px;
+	font-weight: bolder;
+	font-size: 100px;
+	font-family: Helvetica;
+
+}
+.chevron{
+	color: #d31f43;
+}
+.code{
+	background-color: #d31f43;
+	color: white;
+}
+.school{
+	font-size: 50px;
+	letter-spacing: 106px;
+	margin-left: 90px;
+	font-family: Helvetica;
+	height: 0px;
+}
